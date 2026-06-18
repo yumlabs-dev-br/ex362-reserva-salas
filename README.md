@@ -8,7 +8,7 @@ API REST para reserva de salas com detecção de conflitos de horário.
 
 ```bash
 npm install
-npm start        # inicia em http://localhost:3003
+npm start        # inicia em http://localhost:3000
 ```
 
 O projeto já sobe com uma rota raiz `GET /`. Todo o resto é com o grupo.
